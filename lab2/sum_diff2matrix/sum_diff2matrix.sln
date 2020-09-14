@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum_diff2matrix", "sum_diff2matrix\sum_diff2matrix.csproj", "{2D709ACC-7752-4914-ACDD-4D3AFC73905B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D709ACC-7752-4914-ACDD-4D3AFC73905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D709ACC-7752-4914-ACDD-4D3AFC73905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D709ACC-7752-4914-ACDD-4D3AFC73905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D709ACC-7752-4914-ACDD-4D3AFC73905B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {395977BA-A1FC-44C3-8D54-522DF9692B1D}
+	EndGlobalSection
+EndGlobal
